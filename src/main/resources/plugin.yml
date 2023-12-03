@@ -1,0 +1,5 @@
+name: ViaVersionLegit
+version: '${project.version}'
+main: me.sfcevil.viaversionsupport.Main
+author: SFC_Log
+website: http://sfchackmc.8u.cz/
